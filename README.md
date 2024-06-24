@@ -1,8 +1,8 @@
-Estudo de JavaScript
+#Estudo de JavaScript
 
 Este repositório foi criado com o intuito de armazenar todos os códigos desenvolvidos durante um curso de desenvolvimento front-end, com ênfase nas tecnologias JavaScript, HTML e CSS. A seguir, detalho os principais tópicos e conceitos estudados até o momento, organizados por categorias e subcategorias, incluindo exemplos práticos e explicações detalhadas.
 
-Estrutura de Comando de Fluxo
+#Estrutura de Comando de Fluxo
 
 Condicionais
 if, else if, else
@@ -87,7 +87,7 @@ do {
 } while (i < 5);
 Funções
 
-Declaração de Funções
+#Declaração de Funções
 As funções são blocos de código reutilizáveis que podem ser definidos uma vez e executados diversas vezes.
 
 Exemplo:
@@ -123,7 +123,7 @@ const multiplicar = (a, b) => a * b;
 console.log(multiplicar(4, 7));
 HTML e CSS
 
-Integração com JavaScript
+#Integração com JavaScript
 Além de JavaScript, também estudei a integração deste com HTML e CSS, possibilitando a criação de páginas web dinâmicas e estilizadas.
 
 Manipulação do DOM
